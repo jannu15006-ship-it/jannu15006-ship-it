@@ -20,7 +20,7 @@
 
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science
 - 🔭 **Currently Building:** End-to-end Machine Learning pipelines & Generative AI web apps
-- 💡 **Core Interests:** Deep Learning, Computer Vision, Natural Language Processing, MLOps
+- 💡 **Core Interests:** Deep Learning, Computer Vision, Explainable AI (XAI), MLOps
 - 🎯 **Goals:** Master Data Structures & Algorithms, contribute to open source, and secure an AI / Software Engineering role
 
 ---
@@ -52,6 +52,7 @@
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **CIFAR-10 Explainable AI** | Deep learning image classifier with VGG16 transfer learning, Grad-CAM attention heatmaps, and interactive Streamlit UI. | TensorFlow, VGG16, Grad-CAM, Streamlit | [Code](https://github.com/jannu15006-ship-it/CIFAR10-VGG16-Explainable-AI) |
 | **Mr D: AI Productivity OS** | Futuristic AI-driven workspace with intelligent task prioritization, streak metrics, and mood analytics. | React, Tailwind CSS, Local-First Architecture | [Code](https://github.com/jannu15006-ship-it/Mr-D-productivity-os) |
 | **ARIA: Rock Paper Scissors AI** | Interactive computer vision game featuring webcam hand gesture tracking and move prediction. | MediaPipe, JavaScript, Computer Vision | [Code](https://github.com/jannu15006-ship-it/RSP-VS-AI) |
 | **AI Image Caption Generator** | Generative vision-language application capable of analyzing images and synthesizing descriptive captions. | Python, Streamlit, Vision AI | [Code](https://github.com/jannu15006-ship-it/GENERATOR-IMAGE-CAPTIONS-) |
